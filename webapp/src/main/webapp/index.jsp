@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Devops 2024 batch milestone 2 project</h1>
-    <p>Fill the details of your teammates in the below forms
+    <p>Fill the details of g your teammates in the below forms
     shivamkuam and harshith</p>
     <hr>
      
