@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Devops milestone 2 project</h1>
-    <p>details</p>
+    <p>Fill the details of your teammates</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
