@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Devops 2024 batch milestone 2 project</h1>
     <p>Fill the details of your teammates in the below forms
-    shivamkuam</p>
+    shivamkuam and harshith</p>
     <hr>
      
     <label for="Name"><b>Enter your your  Name</b></label>
